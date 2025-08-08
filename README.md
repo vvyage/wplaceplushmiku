@@ -24,7 +24,7 @@ Next, Right the image of Miku to download it and upload it to the Blue Marble bo
 ________________________________________________________________________________________________________________________
 
 # Please check the QR code from time to time to make sure it's scannable! If it's not working, try to fix it for other people with the image and coordinates below.
-# Also there's a image of Teto above Miku but who cares about her right? (Image below)
+# Also there's a image of Teto above Miku but who cares about her,  right? (Image below)
 
 ----------------------------------
 
