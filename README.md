@@ -6,6 +6,7 @@ How do I contribute?
 To get Miku onto your Wplace page and starting painting, follow the instructions over here to get the browser extension for the template: [https://github.com/SwingTheVine/Wplace-BlueMarble/]
 ### Warning: Firefox might be buggy since you might have to refresh the Wplace page everytime you place a pixel. (Might just be a issue on my end)
 
+
 Next, click on the picture of Miku below this and right click it to download it and upload it to the blue box on Wplace
 
 
