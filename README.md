@@ -28,6 +28,7 @@ ________________________________________________________________________________
 # Also there's a image of Teto above Miku but who cares about her,  right? (Image below)
 
 ----------------------------------
+If there's any questions you can DM me on Discord : @voyaqe
 
 
 <img width="42" height="42" alt="qrcode" src="https://github.com/user-attachments/assets/9d46932c-5fae-4851-9e41-c71286eeb76a" />
