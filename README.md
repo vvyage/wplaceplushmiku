@@ -36,5 +36,6 @@ ________________________________________________________________________________
 <img width="83" height="83" alt="angryteto" src="https://github.com/user-attachments/assets/10077f72-3be1-4b41-abbc-7879f59bcb93" />
  (1164, 602, 268, 118)
 
+<img width="1521" height="1209" alt="Screenshot 2025-08-08 145355" src="https://github.com/user-attachments/assets/f1d84c8e-92fc-4066-8c33-5c808c351bda" />
 
 <sup><sub>ffs see võttis liiga palju aega</sub></sup>
