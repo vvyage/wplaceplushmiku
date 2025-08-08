@@ -1,5 +1,5 @@
 # Artwork of Miku!
-## I made this page to show what I'm trying to paint, and I'd really appreciate your help — yes, yours!
+## I made this page to show what I'm trying to paint, and I'd really appreciate your help!
 ### *Since this would take me a very long time to make alone..   :/*
 
 <img width="1280" height="720" alt="2Untitled" src="https://github.com/user-attachments/assets/e02d6983-7554-44e4-ba61-a61d4274f2c0" />
@@ -40,7 +40,7 @@ ___
 
 ---
 
-If there's any questions you can DM me on Discord : @voyaqe
+If there's anything you wanna ask, DM me on Discord : @voyaqe
 
 
 <img width="42" height="42" alt="qrcode" src="https://github.com/user-attachments/assets/9d46932c-5fae-4851-9e41-c71286eeb76a" />
