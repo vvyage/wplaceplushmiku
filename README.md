@@ -1,10 +1,13 @@
 # Artwork of Miku!
-____________________________________________________________________________________________________________________________________________________________________________________________________
 ## I made this page to show what I'm trying to paint, and I'd really appreciate your help — yes, yours!
 ## *Since this would take me a very long time to make alone..   :/*
 
 <img width="1280" height="720" alt="2Untitled" src="https://github.com/user-attachments/assets/e02d6983-7554-44e4-ba61-a61d4274f2c0" />
 
+____________________________________________________________________________________________________________________________________________________________________________________________________
+## This is a *fairly* big project, approx. 621,792 pixels in total. But with enough time we can do it!
+
+<img width="762" height="816" alt="miku" src="https://github.com/user-attachments/assets/47a74532-1ec2-4659-af35-b0fe4b29aba4" />
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 # Here's How You Can Help!
 ------------------------------------
@@ -19,9 +22,6 @@ ________________________________________________________________________________
 Next, Right the image of Miku to download it and upload it to the Blue Marble box on Wplace along with these coordinates: 
 
 **(1163, 602, 943, 171)**
-## This is a *fairly* big project, approx. 621,792 pixels in total. But with enough time we can do it!
-
-<img width="762" height="816" alt="miku" src="https://github.com/user-attachments/assets/47a74532-1ec2-4659-af35-b0fe4b29aba4" />
 ________________________________________________________________________________________________________________________
 
 # Please check the QR code from time to time to make sure it's scannable! If it's not working, try to fix it for other people with the image and coordinates below.
