@@ -1,9 +1,9 @@
 # A Project to put Miku in 🇪🇪!
-## I made this page to show what I'm trying to paint, and I'd really appreciate your help — yes, yours!
+## I made this page to show what I'm trying to paint, and I'd really appreciate your help — yes, yours! Since this would take me months to make alone.. :/
 <img width="1280" height="720" alt="2Untitled" src="https://github.com/user-attachments/assets/609d6225-9eda-419f-bdfd-3f738954cd1c" />
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________
-How do I contribute?
+Here's How You Can Help!
 ------------------------------------
 
 To get Miku onto your Wplace page and starting painting, follow the instructions over here to get the browser extension for the template: [https://github.com/SwingTheVine/Wplace-BlueMarble/]
