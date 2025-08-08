@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 Next, Right the image of Miku to download it and upload it to the Blue Marble box on Wplace along with these coordinates: 
 
-### (1163, 602, 943, 171)
+(1163, 602, 943, 171)
 
 <img width="762" height="816" alt="miku" src="https://github.com/user-attachments/assets/47a74532-1ec2-4659-af35-b0fe4b29aba4" />
 ________________________________________________________________________________________________________________________
@@ -28,8 +28,8 @@ ________________________________________________________________________________
 
 
 <img width="42" height="42" alt="qrcode" src="https://github.com/user-attachments/assets/9d46932c-5fae-4851-9e41-c71286eeb76a" />
-### (1164, 602, 198, 183)/(Top left pixel of the QR Code border)
+(1164, 602, 198, 183)/(Top left pixel of the QR Code border)
 
 
 <img width="83" height="83" alt="angryteto" src="https://github.com/user-attachments/assets/10077f72-3be1-4b41-abbc-7879f59bcb93" />
-### (1164, 602, 268, 118)
+(1164, 602, 268, 118)
