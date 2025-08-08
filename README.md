@@ -1,5 +1,6 @@
 # A Project to put Miku in 🇪🇪!
-## I made this page to show what I'm trying to paint, and I'd really appreciate your help — yes, yours!                                                                                                                                      Since this would take me months to make alone.. :/
+## I made this page to show what I'm trying to paint, and I'd really appreciate your help — yes, yours!
+##Since this would take me months to make alone.. :/
 
 <img width="1280" height="720" alt="2Untitled" src="https://github.com/user-attachments/assets/609d6225-9eda-419f-bdfd-3f738954cd1c" />
 
