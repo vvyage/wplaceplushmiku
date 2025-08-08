@@ -8,8 +8,9 @@ ________________________________________________________________________________
 Here's How You Can Help!
 ------------------------------------
 
-To get Miku onto your Wplace page and starting painting, follow the instructions over here to get the browser extension for the template: [https://github.com/SwingTheVine/Wplace-BlueMarble/]
+## This is a *fairly* big project, approx. 621,792 pixels in total.
 
+To get Miku onto your Wplace page and starting painting, follow the instructions over here to get the browser extension for the template: [https://github.com/SwingTheVine/Wplace-BlueMarble/]
 
 Browser suggestion : Brave // Firefox might have some problems // Mobile should also work but I'm not sure what browsers work best
 ____________________________________________________________________________________________________________________________________________________________________________________________________
