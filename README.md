@@ -35,7 +35,7 @@ Next, Right click the image of Miku to download it and upload it to the Blue Mar
 
 ___
 
-# Please check the QR code from time to time to make sure it's scannable! If it's not working, try to fix it for other people with the image and coordinates below.
+# Please check the QR code from time to time to make sure it's scannable! If it's not working, try fixing it for other people with the image and coordinates below.
 # Also there's a image of Teto above Miku but who cares about her,  right? (Image below)
 
 ---
