@@ -7,7 +7,8 @@ To get Miku onto your Wplace page and starting painting, follow the instructions
 ### Warning: Firefox might be buggy since you might have to refresh the Wplace page everytime you place a pixel. (Might just be a issue on my end)
 
 
-Next, click on the picture of Miku below this and right click it to download it and upload it to the blue box on Wplace
+Next, click on the picture of Miku below and right click it to download it and upload it to the blue box on Wplace with these coordinates: 
+Tl X - 1163 / Tl Y - 602 / Px X - 943 / Px Y - 171
 
 
 <img width="762" height="816" alt="miku" src="https://github.com/user-attachments/assets/47a74532-1ec2-4659-af35-b0fe4b29aba4" />
