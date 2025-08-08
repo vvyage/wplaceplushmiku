@@ -29,7 +29,7 @@ Browser suggestion : Brave // Firefox might have some problems // Mobile should 
 ## Important: If you have unlocked the locked colors, please prioritize placing those for other users. This will help everyone unlock the full palette and contribute more effectively!*
 
 
-Next, Right the image of Miku to download it and upload it to the Blue Marble box on Wplace along with these coordinates: 
+Next, Right click the image of Miku to download it and upload it to the Blue Marble box on Wplace along with these coordinates: 
 
 **(1163, 602, 943, 171)**
 
