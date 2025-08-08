@@ -19,7 +19,7 @@ Next, Right the image of Miku to download it and upload it to the Blue Marble bo
 (1163,602,943,171)
 
 <img width="762" height="816" alt="miku" src="https://github.com/user-attachments/assets/47a74532-1ec2-4659-af35-b0fe4b29aba4" />
-_________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________
 
 # Please check the QR code from time to time to make sure it's scannable! If it's not working, try to fix it for other people with the image and coordinates below.
 # Also there's a image of Teto above Miku but who cares about her right? (Image below)
