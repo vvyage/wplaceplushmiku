@@ -1,4 +1,4 @@
-# A Project to put Miku in 🇪🇪!
+# Artwork of Miku!
 ## I made this page to show what I'm trying to paint, and I'd really appreciate your help — yes, yours!
 ## *Since this would take me a very long time to make alone..   :/*
 
