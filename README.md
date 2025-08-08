@@ -22,6 +22,10 @@ Browser suggestion : Brave // Firefox might have some problems // Mobile should 
 
 ---
 
+---
+
+---
+
 ## Important: If you have unlocked the locked colors, please prioritize placing those for other users. This will help everyone unlock the full palette and contribute more effectively!*
 
 
