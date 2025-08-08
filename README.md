@@ -37,4 +37,4 @@ ________________________________________________________________________________
  (1164, 602, 268, 118)
 
 
-<sup><sub>tra see võttis liiga palju aega</sub></sup>
+<sup><sub>ffs see võttis liiga palju aega</sub></sup>
