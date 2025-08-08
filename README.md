@@ -4,34 +4,38 @@
 
 <img width="1280" height="720" alt="2Untitled" src="https://github.com/user-attachments/assets/e02d6983-7554-44e4-ba61-a61d4274f2c0" />
 
-
-____________________________________________________________________________________________________________________________________________________________________________________________________
+___
 
 ## This is a *fairly* big project, approx. 621,792 pixels in total. But with enough time we can do it!
 
 <img width="762" height="816" alt="miku" src="https://github.com/user-attachments/assets/47a74532-1ec2-4659-af35-b0fe4b29aba4" />
 
-____________________________________________________________________________________________________________________________________________________________________________________________________
+___
 
 # Here's How You Can Help!
-------------------------------------
+
+---
 
 To get Miku onto your Wplace page and starting painting, follow the instructions over here to get the browser extension for the template: [https://github.com/SwingTheVine/Wplace-BlueMarble/]
 
 Browser suggestion : Brave // Firefox might have some problems // Mobile should also work but I'm not sure what browsers work best
-____________________________________________________________________________________________________________________________________________________________________________________________________
+
+---
+
 ## Important: If you have unlocked the locked colors, please prioritize placing those for other users. This will help everyone unlock the full palette and contribute more effectively!*
 
 
 Next, Right the image of Miku to download it and upload it to the Blue Marble box on Wplace along with these coordinates: 
 
 **(1163, 602, 943, 171)**
-________________________________________________________________________________________________________________________
+
+___
 
 # Please check the QR code from time to time to make sure it's scannable! If it's not working, try to fix it for other people with the image and coordinates below.
 # Also there's a image of Teto above Miku but who cares about her,  right? (Image below)
 
-----------------------------------
+---
+
 If there's any questions you can DM me on Discord : @voyaqe
 
 
