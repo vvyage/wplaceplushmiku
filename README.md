@@ -11,7 +11,7 @@ Here's How You Can Help!
 To get Miku onto your Wplace page and starting painting, follow the instructions over here to get the browser extension for the template: [https://github.com/SwingTheVine/Wplace-BlueMarble/]
 
 
-Browser suggestion : Brave // Firefox might have some problems
+Browser suggestion : Brave // Firefox might have some problems // Mobile should also work but I'm not sure what browsers work best
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 ## Important: If you have unlocked the locked colors, please prioritize placing those for other users. This will help everyone unlock the full palette and contribute more effectively!*
 
