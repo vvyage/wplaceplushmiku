@@ -5,10 +5,8 @@
 <img width="1280" height="720" alt="2Untitled" src="https://github.com/user-attachments/assets/609d6225-9eda-419f-bdfd-3f738954cd1c" />
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________
-Here's How You Can Help!
+# Here's How You Can Help!
 ------------------------------------
-
-## This is a *fairly* big project, approx. 621,792 pixels in total.
 
 To get Miku onto your Wplace page and starting painting, follow the instructions over here to get the browser extension for the template: [https://github.com/SwingTheVine/Wplace-BlueMarble/]
 
@@ -20,6 +18,7 @@ ________________________________________________________________________________
 Next, Right the image of Miku to download it and upload it to the Blue Marble box on Wplace along with these coordinates: 
 
 **(1163, 602, 943, 171)**
+## This is a *fairly* big project, approx. 621,792 pixels in total. But with enough time we can do it!
 
 <img width="762" height="816" alt="miku" src="https://github.com/user-attachments/assets/47a74532-1ec2-4659-af35-b0fe4b29aba4" />
 ________________________________________________________________________________________________________________________
