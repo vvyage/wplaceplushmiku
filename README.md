@@ -8,6 +8,7 @@ To get Miku onto your Wplace page and starting painting, follow the instructions
 
 
 Next, click on the picture of Miku below and right click it to download it and upload it to the blue box on Wplace with these coordinates: 
+
 Tl X - 1163 / Tl Y - 602 / Px X - 943 / Px Y - 171
 
 
