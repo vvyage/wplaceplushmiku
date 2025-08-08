@@ -35,3 +35,6 @@ ________________________________________________________________________________
 
 <img width="83" height="83" alt="angryteto" src="https://github.com/user-attachments/assets/10077f72-3be1-4b41-abbc-7879f59bcb93" />
  (1164, 602, 268, 118)
+
+
+<sup><sub>tra see võttis liiga palju aega</sub></sup>
