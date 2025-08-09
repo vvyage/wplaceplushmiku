@@ -42,10 +42,8 @@ ___
 
 If there's anything you wanna ask, DM me on Discord : @voyaqe
 
-
-<img width="42" height="42" alt="qrcode" src="https://github.com/user-attachments/assets/9d46932c-5fae-4851-9e41-c71286eeb76a" />
+<img width="50" height="50" alt="qrcode" src="https://github.com/user-attachments/assets/91e0a0fc-0d46-41c0-889a-0acd2e4977b7" />
  (1164, 602, 198, 183)/(Top left pixel of the QR Code border)
-
 
 <img width="83" height="83" alt="angryteto" src="https://github.com/user-attachments/assets/10077f72-3be1-4b41-abbc-7879f59bcb93" />
  (1164, 602, 268, 118)
