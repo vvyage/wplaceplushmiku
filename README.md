@@ -37,6 +37,7 @@ ___
 
 # Please check the QR code from time to time to make sure it's scannable! If it's not working, try fixing it for other people with the image and coordinates below.
 # Also there's a image of Teto above Miku but who cares about her,  right? (Image below)
+# You can use wplace.org for turning images into pixel art which also uses the Wplace color palette
 
 ---
 
