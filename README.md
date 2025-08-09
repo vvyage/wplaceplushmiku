@@ -1,6 +1,6 @@
 # Artwork of Miku!
 ## I made this page to show what I'm trying to paint, and I'd really appreciate your help!
-### *Since this would take me a very long time to make alone..   :/*
+### *Since this would take me a very long time to make alone..   :/* https://discord.gg/WNAhR7RAnC
 
 <img width="1280" height="720" alt="2Untitled" src="https://github.com/user-attachments/assets/e02d6983-7554-44e4-ba61-a61d4274f2c0" />
 
